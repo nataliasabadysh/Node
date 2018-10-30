@@ -1,0 +1,85 @@
+[{
+  "id": 19112831,
+  "sku": 1120001,
+  "name": "Квартира",
+  "description": "Хорошая квартира в центре города",
+  "price": "20000",
+  "currency": "USD",
+  "creatorId": 1,
+  "created": "21-08-2018",
+  "modified": "21-08-2018",
+  "categories": ["house", "rent"]
+},
+  {
+    "id": 19112832,
+    "sku": 1120002,
+    "name": "Автомобиль",
+    "description": "Хорошая автомобиль. Почти новый",
+    "price": "10000",
+    "currency": "USD",
+    "creatorId": 1,
+    "created": "21-08-2018",
+    "modified": "21-08-2018",
+    "categories": ["vehicle", "car"]
+  },
+  {
+    "id": 19112833,
+    "sku": 1120003,
+    "name": "Смартфон",
+    "description": "Новый смартфон. Без коробки",
+    "price": "500",
+    "currency": "USD",
+    "creatorId": 1,
+    "created": "21-08-2018",
+    "modified": "21-08-2018",
+    "categories": ["phone", "smartphone"]
+  },
+  {
+    "id": 19112834,
+    "sku": 1120004,
+    "name": "Коляска",
+    "description": "Коляска б.у., в хорошем состоянии",
+    "price": "1200",
+    "currency": "USD",
+    "creatorId": 1,
+    "created": "21-08-2018",
+    "modified": "21-08-2018",
+    "categories": ["goods for kids", "stoller"]
+  },
+  {
+    "id": 19112835,
+    "sku": 1120005,
+    "name": "Автомобиль",
+    "description": "Хорошая автомобиль. Почти новый",
+    "price": "25000",
+    "currency": "USD",
+    "creatorId": 1,
+    "created": "21-08-2018",
+    "modified": "21-08-2018",
+    "categories": ["vehicle", "car"]
+  },
+  {
+    "id": 19112836,
+    "sku": 1120006,
+    "name": "Ноутбук",
+    "description": "Хорошая ноутбук. Почти новый",
+    "price": "700",
+    "currency": "USD",
+    "creatorId": 1,
+    "created": "21-08-2018",
+    "modified": "21-08-2018",
+    "categories": ["device", "laptop"]
+  },
+  {
+    "id": 19112837,
+    "sku": 1120007,
+    "name": "Часы",
+    "description": "Часы швейцарские. Почти новый",
+    "price": "5000",
+    "currency": "USD",
+    "creatorId": 1,
+    "created": "21-08-2018",
+    "modified": "21-08-2018",
+    "categories": ["watch", "watch"]
+  }
+]
